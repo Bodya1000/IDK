@@ -1,0 +1,64 @@
+
+.header{
+    color: orangered;
+    text-align: center;
+}
+.giraffa {
+    color: navy;
+    text-align: center;
+    background-color: green;
+}
+.img-girafff{
+    border: 2px dashed blue; 
+}
+
+.img-container {
+    text-align: center;
+}
+body{
+    background-color: burlywood;
+}
+.catalog {
+    height: 100px;
+    background-color: chocolate;
+    /* border: 12purl(style.css)x solid green; */
+    border-style: double;
+    border-width: 15px;
+    border-color: blueviolet;
+}
+.home{
+    text-align: center;
+    height: 50px;
+    background-color: snow;
+    border: 7px solid red;
+    font-size: medium;
+}
+.aboutus {
+    height: 50px;
+    background-color: aqua;
+    border-color: brown;
+    border-width: 10px;
+    border-style: dashed;
+}
+.contact{
+    height: 129px;
+    background-color: deeppink;
+    border-color: rgb(255, 205, 253);
+    border-width: 3px;
+    border-style: solid;
+}
+.text{
+    height: 180px;
+    background-color: aliceblue;
+    border-color: black;
+    border-width: 3px;
+    border-style: solid;
+    font-size: medium;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.image{
+    border-style: solid;
+   border-color: rgb(21, 110, 43);
+   border-width: 5px;
+   border-radius: 50%;
+}
